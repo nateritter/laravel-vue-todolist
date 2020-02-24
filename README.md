@@ -8,8 +8,9 @@ This is a work in progress and the app will be built over the course of 2-3 meet
 
 * `composer install`
 * `npm install`
-* `cp .env.exmaple .env`
+* `cp .env.example .env`
 * `php artisan key:generate`
 * Edit `.env` and put database and other credentials
 * `php artisan migrate`
+* `php artisan passport:install`
 * `npm run dev`
